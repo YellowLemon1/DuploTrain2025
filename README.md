@@ -20,4 +20,5 @@ As set up now, it works with 2x 8bitdo controllers and 2x Duplo Trains. Each con
 
 2. Install **_XYsticks.ino** on to any ESP32 variant (even -S3) it uses BLE to connect to and control the DUPLO Trains
 
-
+### Example:
+Here is the DUPLO train in action: https://youtu.be/QwTpPL7m0XY
